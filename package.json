@@ -1,0 +1,19 @@
+{
+  "name": "typeface-manrope",
+  "version": "1.0.0",
+  "description": "An npm package for distributing the Manrope font family by Michael Sharanda",
+  "main": "manrope.css",
+  "repository": "https://github.com/ImedAdel/typeface-manrope",
+  "author": " Imed Adel <aadelimed@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "manrope",
+    "typeface",
+    "font",
+    "font family",
+    "gatsby",
+    "typography",
+    "theme-ui"
+  ]
+}
